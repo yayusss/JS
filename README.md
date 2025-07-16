@@ -18,15 +18,15 @@ To achieve this, Main JS creates a few easy to follow standards that when applie
 This functionality is platform agnostic, accessibility aware and has no need for backend software packages, costly infrastructure or connectivity requirements.
 
 
-## Getting Started
+## Getting started
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/AndyFutcher/main.js) -MAIN Release Coming Soon; Download the repo ZIP in the meantime.
+- [Download the latest release](https://github.com/AndyFutcher/main.js/releases/download/main.js/main.js-main-v0.6.zip) or Download the repo ZIP from a branch you choose.
 - Clone the repo: `git clone https://github.com/AndyFutcher/main.js`
 
 
-## Change Log
-Version **0.6** - Initial Release 
+## Change log
+Version 0.6-beta - Initial Release 
  - Still missing some major branches of on the roadmap
 
 
