@@ -37,7 +37,7 @@ consent.message[consent.terms.posture]={id:"consent-dialog",title:'Manage your c
 if(!document.readyState==attribute.loading){console.warn("Main.JS has been loaded without the defer attribute, performance will be negatively impacted.");}; //
 if(!main.version){console.warn("Main.JS is running without <head> snippet, performance will be negatively impacted.");main.version={};}else //
 if((main.version.main!=version.main)||(main.version.minor!=version.minor)||(main.version.patch!=version.patch)){console.warn("Main.JS Snippet v"+main.version.main+"."+main.version.minor+"."+main.version.patch+" & Library v"+version.main+"."+version.minor+"."+version.patch+" are out of sync.");};
-version.full=version.main+"."+version.minor+(!version.patch?'':"."+version.patch)+(((version.branch=='')||version.branch=='main')?'':"-"+version.branch);main.version.full=version.full;version.htmlless=main.version.htmlless||true;
+version.full=version.main+"."+version.minor+(!version.patch?'':"."+version.patch)+(((version.branch=='')||version.branch=='main')?'':"-"+version.branch);main.version.full=version.full;version.htmlless=(typeof main.version.htmlless==types.boolean)?main.version.htmlless:true||true;
 
 /* Main.JS Head Polyfil */
 main.meta=main.meta||{};
