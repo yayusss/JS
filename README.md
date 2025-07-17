@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.mainjs.org/script">
+    <a href="https://www.mainjs.org/script/">
         <img src="https://www.mainjs.org/image/main-js.svg" alt="Main JS Logo" width="1260" height="380" style="filter:invert(1);">
     </a>
 </p>
