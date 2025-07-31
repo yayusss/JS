@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.mainjs.org/script/">
-        <img src="https://www.mainjs.org/image/main-js-logo.svg" alt="Main JS Logo" width="1260" height="380">
+        <img src="https://www.mainjs.org/image/main-js-logo.png" alt="Main JS Logo" width="1260" height="380">
     </a>
 </p>
 
@@ -30,7 +30,7 @@ Version 0.6-beta - Consent Release
  - Consent and trust management system
 
 
-## Development Roadmap
+## Development roadmap
  - Version 1.0 - **Full Release**
  - Version 0.9 - Analytics & A/B Testing Update 
  - Version 0.8 - Personalisation Update 
